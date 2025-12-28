@@ -33,7 +33,6 @@
 - **Greedy techniques**
 - **Bit Manipulation**
 
-*(Add or remove topics as needed based on actual code files in the repo)*
 
 ---
 
