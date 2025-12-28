@@ -5,8 +5,6 @@
 
 ## 📚 Topics Covered
 
-> 💡 List below the concepts you have implemented. Replace or expand as per what’s actually in your `CODES/` folder.
-
 ### 🔹 Data Structures
 - **Arrays** – operations, manipulations, variations
 - **Linked Lists** – singly, doubly, circular (insert, delete, reverse, etc.)
